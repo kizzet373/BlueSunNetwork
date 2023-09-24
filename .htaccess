@@ -1,0 +1,7 @@
+# PassengerNodejs /home/kizzet/.nvm/versions/node/v12.22.3/bin/node
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.html$ – [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.html [L]
