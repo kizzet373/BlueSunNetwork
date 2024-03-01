@@ -47,7 +47,7 @@
                 },
                 {
                   text:"Erik Satie - Gymnopédie No.1:",
-                  link:{element:"iframe", width:"100%", height:"315", src:"https://www.youtube.com/embed/S-Xm7s9eGxU?list=PL0COI12jLAaYq4mQiBr-PjZT8ntVc6NxJ", title:"YouTube video player", frameborder:"0", allow:"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture", extra:"allowfullscreen"}
+                  link:{element:"iframe", width:"100%", height:"315", src:"https://www.youtube.com/watch?v=2WfaotSK3mI", title:"YouTube video player", frameborder:"0", allow:"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture", extra:"allowfullscreen"}
                 }
               ]
             },
